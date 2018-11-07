@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 看一看，瞧一瞧啦。新鲜出炉的网页！
 
 You can use the [editor on GitHub](https://github.com/bluestock/MYH5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
